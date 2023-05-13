@@ -1,0 +1,39 @@
+{
+  "todos": [
+    {
+      "id": "2023-05-13T11:28:00.639Z",
+      "todo": "Learn React",
+      "completed": true
+    },
+    {
+      "id": "2023-05-13T11:28:14.865Z",
+      "todo": "Workout",
+      "completed": false
+    },
+    {
+      "id": "2023-05-13T11:53:45.501Z",
+      "todo": "Eat Protein",
+      "completed": false
+    },
+    {
+      "id": "2023-05-13T11:54:27.735Z",
+      "todo": "Learn Git",
+      "completed": true
+    },
+    {
+      "id": "2023-05-13T12:53:43.082Z",
+      "todo": "Drink Water",
+      "completed": true
+    },
+    {
+      "id": "2023-05-13T13:06:54.636Z",
+      "todo": "Play Basketball",
+      "completed": false
+    },
+    {
+      "id": "2023-05-13T13:07:32.629Z",
+      "todo": "Go Shopping",
+      "completed": true
+    }
+  ]
+}
